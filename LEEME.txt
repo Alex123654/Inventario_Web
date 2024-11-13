@@ -1,0 +1,26 @@
+Saludos Maestros este es el sistema de venta MAG, es un sistema de ventas en el cual podra gestionar sus propio inventario tanto de compras como de ventas, el mismo le proporcionara una opcion para reportes en la cual podra exporta en diferentes formatos los distintios productos y una opcion para listar los productos.
+
+
+Para ingresar al programa debe realizarlo con el siguiente usurio y contraseña:
+
+    USUARIO: alex-agra@hotmail.com
+
+    CONTRASEÑA: 123
+
+
+NOTA: RECORDAR IMPORTAR LA BASE DE DATOS PARA EL CORRECTO FUNCIONAMIENTO DEL PROGRAMA.
+
+
+EL SISTEMA DE VENTA MAG fue creado por el Grupo 3 cuyos integrantes son:
+
+                Alexander Angramonte Ogando
+
+                Matricula: 1-11-5620
+
+                Jean Michel Martinez
+
+                Matricula: 1-15-6258
+
+                Geovanny Dipre
+
+                Matricula: 1-14-6824
