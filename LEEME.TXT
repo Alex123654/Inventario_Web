@@ -1,0 +1,11 @@
+Saludos Maestros este es el sistema, es un sistema en el cual podra gestionar sus propio inventario tanto de compras como de ventas, el mismo le proporcionara una opcion para reportes en la cual podra exporta en diferentes formatos los distintios productos y una opcion para listar los productos.
+
+
+Para ingresar al programa debe realizarlo con el siguiente usurio y contraseña:
+
+    USUARIO: alex-agra@hotmail.com
+
+    CONTRASEÑA: 123
+
+
+NOTA: RECORDAR IMPORTAR LA BASE DE DATOS A MYSQL PARA EL CORRECTO FUNCIONAMIENTO DEL PROGRAMA.
